@@ -13,6 +13,6 @@
 3. So on ...
  
 ## Used Technologies: 
-Swift, XCode, UIKit, Codable Protocol, JSON, URLSession, Clean Code,  MVVM Architecture Pattern, Coordinator Pattern, DI Pattern, Programmatically Swift(Without Xib and Storyboard, Reactive Programming)
+Swift, XCode, UIKit, Codable Protocol, JSON, URLSession, Clean Code,  MVVM Architecture Pattern, Coordinator Pattern, DI Pattern, Programmatically Swift(Without Xib and Storyboard), Reactive Programming
 ## Third-Party Libraries   
 ### Snapkit, SDWebImage, RXSwift, RXCocoa, 
