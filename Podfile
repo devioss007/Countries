@@ -6,6 +6,13 @@ target 'Countries' do
   use_frameworks!
 
   # Pods for Countries
+
   pod 'SnapKit', '~> 5.6.0'
+  pod 'SDWebImage', '~> 5.0'
+
+  # Reactive programming
+
+  pod 'RxSwift'
+  pod 'RxCocoa'
 
 end
