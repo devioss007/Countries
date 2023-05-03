@@ -76,7 +76,7 @@ extension SearchRootView: RootView {
         
         viewModel.isVisibleNoFoundView.subscribe { [weak self] isVisible in
             guard let self = self else { return }
-            isVisible ? noFoundView.show() : noFoundView.hide()
+            isVisible ? self.noFoundView.show() : self.noFoundView.hide()
         }.disposed(by: bag)
     }
 }
